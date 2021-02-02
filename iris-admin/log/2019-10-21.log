@@ -1,0 +1,35 @@
+[INFO] 2019/10/21 18:18 日志配置项启动
+[INFO] 2019/10/21 18:18 项目配置项初始化完毕
+[WARN] 2019/10/21 18:18 the standard API to register a context handler could be used instead
+Now listening on: http://localhost:8080
+Application started. Press CTRL+C to shut down.
+[INFO] 2019/10/21 18:18 [{4 3012 测试 123123 } {5 3003 123 1231234                                            } {6 3029 123123111 12312311                                           } {7 3028 蚊子 12111                                              } {8 3027 小涛 12QW                                               } {9 3026 ASDF QWE1123                                            } {10 3036 台州 1111                                               } {11 3104 . IIS } {12 3106 feng &#183; } {13 3117 深圳小胡 xiaohu }] <nil>
+[ERRO] 2019/10/21 18:20 http: Server closed
+[INFO] 2019/10/21 18:20 日志配置项启动
+[INFO] 2019/10/21 18:20 项目配置项初始化完毕
+[WARN] 2019/10/21 18:20 the standard API to register a context handler could be used instead
+Now listening on: http://localhost:8080
+Application started. Press CTRL+C to shut down.
+[INFO] 2019/10/21 18:20 [{4 3012 测试 123123 } {5 3003 123 1231234                                            } {6 3029 123123111 12312311                                           } {7 3028 蚊子 12111                                              } {8 3027 小涛 12QW                                               } {9 3026 ASDF QWE1123                                            } {10 3036 台州 1111                                               } {11 3104 . IIS } {12 3106 feng &#183; } {13 3117 深圳小胡 xiaohu }] <nil>
+[ERRO] 2019/10/21 18:21 http: Server closed
+[INFO] 2019/10/21 18:21 日志配置项启动
+[INFO] 2019/10/21 18:21 项目配置项初始化完毕
+[WARN] 2019/10/21 18:21 the standard API to register a context handler could be used instead
+Now listening on: http://localhost:8080
+Application started. Press CTRL+C to shut down.
+[INFO] 2019/10/21 18:21 [{4 3012 测试 123123 } {5 3003 123 1231234                                            } {6 3029 123123111 12312311                                           } {7 3028 蚊子 12111                                              } {8 3027 小涛 12QW                                               } {9 3026 ASDF QWE1123                                            } {10 3036 台州 1111                                               } {11 3104 . IIS } {12 3106 feng &#183; } {13 3117 深圳小胡 xiaohu }] <nil>
+[ERRO] 2019/10/21 18:21 http: Server closed
+[INFO] 2019/10/21 18:22 日志配置项启动
+[INFO] 2019/10/21 18:22 项目配置项初始化完毕
+[WARN] 2019/10/21 18:22 the standard API to register a context handler could be used instead
+Now listening on: http://localhost:8080
+Application started. Press CTRL+C to shut down.
+[INFO] 2019/10/21 18:22 [{4 3012 测试 123123 } {5 3003 123 1231234                                            } {6 3029 123123111 12312311                                           } {7 3028 蚊子 12111                                              } {8 3027 小涛 12QW                                               } {9 3026 ASDF QWE1123                                            } {10 3036 台州 1111                                               } {11 3104 . IIS } {12 3106 feng &#183; } {13 3117 深圳小胡 xiaohu }] <nil>
+[ERRO] 2019/10/21 18:22 http: Server closed
+[INFO] 2019/10/21 18:22 日志配置项启动
+[INFO] 2019/10/21 18:22 项目配置项初始化完毕
+[WARN] 2019/10/21 18:22 the standard API to register a context handler could be used instead
+Now listening on: http://localhost:8080
+Application started. Press CTRL+C to shut down.
+[INFO] 2019/10/21 18:22 [{4 3012 测试 123123 } {5 3003 123 1231234 } {6 3029 123123111 12312311 } {7 3028 蚊子 12111 } {8 3027 小涛 12QW } {9 3026 ASDF QWE1123 } {10 3036 台州 1111 } {11 3104 . IIS } {12 3106 feng &#183; } {13 3117 深圳小胡 xiaohu }] <nil>
+[ERRO] 2019/10/22 13:52 http: Server closed
